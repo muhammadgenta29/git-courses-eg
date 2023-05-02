@@ -1,2 +1,2 @@
-Fitur website 
+Fitur website
 - Membuat Fitur Auth Login dan Register
