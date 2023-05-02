@@ -1,5 +1,2 @@
 Fitur website 
-- Ada login register
-sistem login harus memakai google captha
-- crud
-sistem crud harus aman sesuai kaidah ke crud an
+- Membuat Fitur Auth Login dan Register
