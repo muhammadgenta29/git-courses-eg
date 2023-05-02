@@ -1,2 +1,2 @@
-Fitur website 
-- Membuat sistem CRUD
+Fitur website
+- Membuat Fitur Auth Login dan Register
